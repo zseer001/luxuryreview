@@ -22,8 +22,9 @@ _testmain.go
 *.exe
 *.test
 
+#themes
+
 public
-themes
 resources
 
 assets/jsconfig.json
